@@ -1,12 +1,11 @@
 namespace BlaisePascal.LessonsExample.Domain.UnitTests
 {
-    public class UnitTest1
+    public class EnemyTest
     {
         [Fact]
         public void Test1()
         {
-            Enemy enemy = new Enemy();
-            enemy.SetHealth(82);
+            
         }
     }
 }
