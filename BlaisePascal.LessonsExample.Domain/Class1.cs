@@ -4,7 +4,6 @@
     {
         private int _health;
         private string _name;
-        // Primo costruttore
         public Enemy(string name, int health)
         {
             SetHealth(health);
